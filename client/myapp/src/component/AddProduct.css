@@ -1,0 +1,12 @@
+.form-product{
+    padding:5vh;
+}
+.form-child{
+    padding:10px;
+    width: 600px;
+}
+.form-child input {
+    width: 100%;
+    padding:5px;
+    border:1px solid gray;
+}
